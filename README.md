@@ -204,4 +204,4 @@ This repository serves as the official landing page for Advent NEON. The softwar
 **Get the most recent version of Advent NEON today!**
 
 ---
-**Last updated:** 2026-11-14 08:26:30 UTC
+**Last updated:** 2026-11-14 15:27:34 UTC
